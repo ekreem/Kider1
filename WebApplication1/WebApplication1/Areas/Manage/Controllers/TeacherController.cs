@@ -32,7 +32,27 @@ namespace WebApplication1.Areas.Manage.Controllers
                 return View();
             }
 
-            await _context.Teachers.AddAsync(teachers);
+            string filname = teachers.File.FileName;
+            string path = "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\Upload\\Slider\\";
+            using (FileStream stream = new FileStream(path + filname, FileMode.Create)) 
+            {
+            teachers.File.CopyTo(stream);   
+            }
+
+            teachers.ImgUrl = filname; 
+
+
+
+
+
+
+
+
+
+
+
+
+                await _context.Teachers.AddAsync(teachers);
             await _context.SaveChangesAsync();
 
             return RedirectToAction("Index");

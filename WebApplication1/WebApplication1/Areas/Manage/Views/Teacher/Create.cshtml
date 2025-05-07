@@ -2,14 +2,15 @@
 @model Teacher
 
 <div class="container">
-    <form method="post">
+    <form method="post" enctype="multipart/form-data">
         <div class="form-group">
             <label asp-for="FullName">FullName</label>
             <input asp-for="FullName" class="form-control">
             <label asp-for="Job">Job</label>
             <input asp-for="Job" class="form-control">
-            <label asp-for="ImgUrl">ImgUrl</label>
-            <input asp-for="ImgUrl" class="form-control">
+            <label asp-for="File">Img File</label>
+            <input asp-for="File" class="form-control">
+            <span asp-validation-for="File"></span>
         </div>
 
         <button type="submit" class="btn btn-primary">Submit</button>

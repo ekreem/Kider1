@@ -21,7 +21,7 @@
                       
                       <td>@item.FullName</td>
                       <td>@item.Job</td>
-                      <td>@item.ImgUrl</td>
+                    <td><img style="width:100px; height:100px;"  w-75" src="~/img/@item.ImgUrl"></td>
                       <td>
                           <a class="btn btn-dark" asp-action="Update" asp-route-id="@item.Id">Update</a>
                           <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>

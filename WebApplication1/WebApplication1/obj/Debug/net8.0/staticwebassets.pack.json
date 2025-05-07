@@ -7421,6 +7421,14 @@
       "PackagePath": "staticwebassets\\Manage\\vendor\\jquery\\jquery.slim.min.map"
     },
     {
+      "Id": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\Upload\\Slider\\miraga.jfif",
+      "PackagePath": "staticwebassets\\Upload\\Slider\\miraga.jfif"
+    },
+    {
+      "Id": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\Upload\\Slider\\sanay.jfif",
+      "PackagePath": "staticwebassets\\Upload\\Slider\\sanay.jfif"
+    },
+    {
       "Id": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
@@ -7489,12 +7497,28 @@
       "PackagePath": "staticwebassets\\img\\classes-6.jpg"
     },
     {
+      "Id": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\img\\dava.jfif",
+      "PackagePath": "staticwebassets\\img\\dava.jfif"
+    },
+    {
+      "Id": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\img\\deniz.jpg",
+      "PackagePath": "staticwebassets\\img\\deniz.jpg"
+    },
+    {
       "Id": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\img\\hikmet.jfif",
       "PackagePath": "staticwebassets\\img\\hikmet.jfif"
     },
     {
       "Id": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\img\\memmedaga.jfif",
       "PackagePath": "staticwebassets\\img\\memmedaga.jfif"
+    },
+    {
+      "Id": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\img\\miraga.jfif",
+      "PackagePath": "staticwebassets\\img\\miraga.jfif"
+    },
+    {
+      "Id": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\img\\sanay.jfif",
+      "PackagePath": "staticwebassets\\img\\sanay.jfif"
     },
     {
       "Id": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\img\\team-1.jpg",

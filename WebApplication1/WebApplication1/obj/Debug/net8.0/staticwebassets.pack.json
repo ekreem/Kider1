@@ -7421,12 +7421,24 @@
       "PackagePath": "staticwebassets\\Manage\\vendor\\jquery\\jquery.slim.min.map"
     },
     {
+      "Id": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\Upload\\Slider\\deniz.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Slider\\deniz.jpg"
+    },
+    {
       "Id": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\Upload\\Slider\\miraga.jfif",
       "PackagePath": "staticwebassets\\Upload\\Slider\\miraga.jfif"
     },
     {
+      "Id": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\Upload\\Slider\\ofelya.jfif",
+      "PackagePath": "staticwebassets\\Upload\\Slider\\ofelya.jfif"
+    },
+    {
       "Id": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\Upload\\Slider\\sanay.jfif",
       "PackagePath": "staticwebassets\\Upload\\Slider\\sanay.jfif"
+    },
+    {
+      "Id": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\Upload\\Slider\\vezyetzordu.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Slider\\vezyetzordu.jpg"
     },
     {
       "Id": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\css\\bootstrap.min.css",
@@ -7517,6 +7529,10 @@
       "PackagePath": "staticwebassets\\img\\miraga.jfif"
     },
     {
+      "Id": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\img\\ofelya.jfif",
+      "PackagePath": "staticwebassets\\img\\ofelya.jfif"
+    },
+    {
       "Id": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\img\\sanay.jfif",
       "PackagePath": "staticwebassets\\img\\sanay.jfif"
     },
@@ -7551,6 +7567,10 @@
     {
       "Id": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\img\\user.jpg",
       "PackagePath": "staticwebassets\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\img\\vezyetzordu.jpg",
+      "PackagePath": "staticwebassets\\img\\vezyetzordu.jpg"
     },
     {
       "Id": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\js\\main.js",

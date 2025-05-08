@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pI/5eQ2w9i/8mQO0SM6Hlq4FutGdkfMSv8RMzDtZbvU=",
+  "Hash": "jj3i5x6UP+avr1DEmnMHgkvLEzj+wEWOx31E7dXlUHo=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -435,6 +435,25 @@
       "OriginalItemSpec": "wwwroot\\img\\miraga.jfif"
     },
     {
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\img\\ofelya.jfif",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "img/ofelya.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\ofelya.jfif"
+    },
+    {
       "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\img\\sanay.jfif",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -604,6 +623,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\user.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\img\\vezyetzordu.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "img/vezyetzordu.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\vezyetzordu.jpg"
     },
     {
       "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\js\\main.js",
@@ -37789,6 +37827,25 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\Upload\\Slider\\deniz.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "Upload/Slider/deniz.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\Slider\\deniz.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\Upload\\Slider\\miraga.jfif",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -37808,6 +37865,25 @@
       "OriginalItemSpec": "wwwroot\\Upload\\Slider\\miraga.jfif"
     },
     {
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\Upload\\Slider\\ofelya.jfif",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "Upload/Slider/ofelya.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\Slider\\ofelya.jfif"
+    },
+    {
       "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\Upload\\Slider\\sanay.jfif",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -37825,6 +37901,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Upload\\Slider\\sanay.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\Upload\\Slider\\vezyetzordu.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "Upload/Slider/vezyetzordu.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\Slider\\vezyetzordu.jpg"
     }
   ]
 }

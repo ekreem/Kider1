@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca r221.14\\desktop\\mvc ler\\kider\\webapplication1\\webapplication1\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca r221.14\\desktop\\mvc ler\\kider\\webapplication1\\webapplication1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca r221.14\\desktop\\mvc ler\\kider\\webapplication1\\webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca r221.14\\desktop\\mvc ler\\kider\\webapplication1\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca r221.14\\desktop\\mvc ler\\kider\\webapplication1\\webapplication1\\areas\\manage\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\manage\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca r221.14\\desktop\\mvc ler\\kider\\webapplication1\\webapplication1\\areas\\manage\\views\\teacher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\manage\\views\\teacher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca r221.14\\desktop\\mvc ler\\kider\\webapplication1\\webapplication1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca r221.14\\desktop\\mvc ler\\kider\\webapplication1\\webapplication1\\areas\\manage\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\manage\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Migrations\\20250508081234_addUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Migrations\\20250508081234_addUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca r221.14\\desktop\\mvc ler\\kider\\webapplication1\\webapplication1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca r221.14\\desktop\\mvc ler\\kider\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca r221.14\\desktop\\mvc ler\\kider\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca r221.14\\desktop\\mvc ler\\kider\\webapplication1\\webapplication1\\migrations\\20250506074351_yaradabilmirem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20250506074351_yaradabilmirem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca r221.14\\desktop\\mvc ler\\kider\\webapplication1\\webapplication1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D5343E-993F-49A7-8F7E-ED0232C7124B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,83 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAANYBAAAAAAAAAAAAAOoBAAA6AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Areas\\Manage\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Manage\\Views\\Teacher\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Areas\\Manage\\Views\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Manage\\Views\\Teacher\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T07:51:49.617Z",
+              "WhenOpened": "2025-05-08T09:29:42.599Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20250506074351_yaradaBilmirem.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Migrations\\20250506074351_yaradaBilmirem.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250506074351_yaradaBilmirem.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Migrations\\20250506074351_yaradaBilmirem.cs",
-              "RelativeToolTip": "WebApplication1\\Migrations\\20250506074351_yaradaBilmirem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T07:43:51.411Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Models\\Teacher.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\Teacher.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Models\\Teacher.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\Teacher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T07:43:13.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Areas\\Manage\\Views\\Teacher\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Manage\\Views\\Teacher\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Areas\\Manage\\Views\\Teacher\\Create.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Manage\\Views\\Teacher\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T06:38:10.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TeacherController.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Areas\\Manage\\Controllers\\TeacherController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Manage\\Controllers\\TeacherController.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Areas\\Manage\\Controllers\\TeacherController.cs",
-              "RelativeToolTip": "WebApplication1\\Areas\\Manage\\Controllers\\TeacherController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T06:37:20.558Z",
+              "WhenOpened": "2025-05-08T09:00:38.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Areas\\Manage\\Views\\Teacher\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Manage\\Views\\Teacher\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Areas\\Manage\\Views\\Teacher\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Manage\\Views\\Teacher\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABlAAAAAAAAAA==",
+              "Title": "RegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\ViewModels\\Account\\RegisterVm.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\Account\\RegisterVm.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\ViewModels\\Account\\RegisterVm.cs",
+              "RelativeToolTip": "WebApplication1\\ViewModels\\Account\\RegisterVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:52:43.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T05:18:14.664Z",
+              "WhenOpened": "2025-05-08T08:22:47.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:18:10.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250508081234_addUser.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Migrations\\20250508081234_addUser.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250508081234_addUser.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Migrations\\20250508081234_addUser.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20250508081234_addUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:12:34.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:59:54.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\Models\\AppUser.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:55:56.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\MVC ler\\Kider\\WebApplication1\\WebApplication1\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:49:21.356Z",
               "EditorCaption": ""
             }
           ]
